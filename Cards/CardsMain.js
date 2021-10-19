@@ -1,12 +1,12 @@
 //Black cards (Questions)
 var cards_blackCards = [
- "After getting bored with the big flashlight, I stuck ______ up my ass" 
+"After getting bored with the big flashlight, I stuck ______ up my ass" 
 "Attractive, white, upper middle class males can't handle ______" 
 "Because I've never experienced any form of hardship, I have no problem with ______" 
 "I just got done serving a 10 year sentence for ______" 
 "Instead of Viagra, I get my dick hard by ______" 
 "The best part abot having a live in Grandparent with Dimentia is they will do just about anything. I have mine help me with ______"  
- "Don’t open, ______ inside." 
+"Don’t open, ______ inside." 
 "I can’t profess to understand God’s plan. Christ promised the resurrection of the dead. I just thought He had ______ in mind." 
 "I’m looking for my family. They’re ______. Can you help me?" 
 "Listen, damnit. You step outside, you risk your life. You take a drink of water, you risk your life. And nowadays you breathe, and you risk your life. Every moment now you don't have a choice. The only thing you can choose is what you're risking it for: ______." 
@@ -388,9 +388,9 @@ var cards_whiteCards = [
 "Arlo P. Arlo."
 "Arlo the Orc."
 "Ash and Checkers."
-Ash.
+"Ash."
 "Ashens taking a blowtorch to a crappy toy."
-Ashens.
+"Ashens."
 "Ask That Guy raped by Ma-Ti live."
 "Ask That Guy With The Glasses."
 "ASS ASS ASS ASS ASS ASS ASS ASS."
@@ -401,34 +401,34 @@ Ashens.
 "Because no one wants to see your dick."
 "Because the Kool-Aid Man is red."
 "Because there's nothing sexy at the Wal-Mart."
-Because...hippos.
+"Because...hippos."
 "Becoming possessed and insulting your colleague."
-Bees!
+"Bees!"
 "Bees. My God."
 "Being awkward around your favorite reviewer."
 "Being frozen today."
 "Bennett the Sage."
 "Beppo the Invisible Monkey."
-BETRAYAL!
+"BETRAYAL!"
 "Big Butter Jesus."
 "Big Jim Slade."
 "Black Lantern Spoony."
-Blip.
+"Blip."
 "Blockbuster Buster busting a nut."
 "Brad, drinking a Turkey-flavored Jones Soda."
 "Breaking someone's spine by fucking."
 "Bruno Matei."
 "Butchered Dutch."
 "Carl Copenhagen."
-Casper.
-ChaosD1.
+"Casper."
+"ChaosD1."
 "Chester A. Bum."
 "Chuck Norris."
 "Comicron One."
 "Confusing The Last Angry Geek and Linkara."
 "Corporate Commander."
 "CR's collection of My Little Pony pins."
-CR.
+"CR."
 "Creepy fans at cons buying expensive stuff for MarzGurl."
 "Creepy guys in the RDA chat hitting on Tara."
 "Crying your eyes out at a bunch of online reviewers."
@@ -459,18 +459,18 @@ CR.
 "Eating the flesh of your foes while howling at the moon."
 "Enoby Dark'ness Dementia Raven TARA Way."
 "Evilina's monstrous visage."
-Evilina.
+"Evilina."
 "Explosively masturbating with Malachite's Hand."
 "Ferdinand Von Turrell."
 "Film Brain's hair."
 "Film Brain's lovely accent."
 "Film Brain, dressed tastefully in fashionable clothing."
 "Film Renegado creaming himself over Pacific Rim."
-Filmbrain.
+"Filmbrain."
 "Finding out that ""it's not Pop Tarts!"""
 "Firing a blue shell at the opposing house ship."
 "Florida Man."
-Florida.
+"Florida."
 "Flying sex snakes in monocles and bow ties."
 "Forcing an NPC to haul your crap."
 "Fort Super-Awesome."
@@ -487,19 +487,19 @@ Florida.
 "Glenn Beck being torn apart by zombies."
 "Going full retard."
 "Going through the effort to build a wall in your back yard just to bash your head into it over and over again."
-Gooby.
+"Gooby."
 "Hagan's dictator tendencies."
 "Hagan's make up artist."
 "Hagan's masturbating minion."
-Haganistan.
-Ham?
+"Haganistan."
+"Ham?"
 "Harmony Korine."
 "Harvey Finevoice's fine voice."
 "Having sex at a screening of Mr. Popper's Penguins."
 "Hippo Queen Tara."
-HIPPOS!
+"HIPPOS!"
 "Hitler without the mustache."
-Holly.
+"Holly."
 "Humping a can of trash."
 "I AM A MAN!"
 "Il Neige in a freakishly accurate Film Brain costume."
@@ -507,12 +507,12 @@ Holly.
 "Iron Liz."
 "Jaeris, the Gunslinger."
 "JewWario's solar penis."
-JewWario.
+"JewWario."
 "Joe Quesada."
-Kali.
-Kickassia.
+"Kali."
+"Kickassia."
 "Killing clowns."
-Kitler.
+"Kitler."
 "Kung Tai Ted."
 "Kyle humping a trashcan."
 "Kyle playing GTA while drunk."
@@ -532,7 +532,7 @@ Kitler.
 "Linkara, dressed as the Green Ranger."
 "Linkara, dropping an F-Bomb."
 "Linkara, sexily eating a salad."
-Linkara.
+"Linkara."
 "Literally drinking bottled fangirl tears."
 "Little Pluckies Ninja Protects."
 "Lord Vyce."
@@ -540,26 +540,26 @@ Linkara.
 "Luke Mochrie's trust fund."
 "Luke's curly hair."
 "Luke's inners."
-Luke.
+"Luke."
 "Lupa's brand of hair dye."
 "Ma-Ti being castrated and having his balls shipped to Oancitizen in the mail by Diamanda Hagan."
-MAGfest.
+"MAGfest."
 "Magical fairy sex."
 "Making angry love to a DVD copy of ""Neverending Story III""."
-Mako.
+"Mako."
 "Malachite's Hand."
-Malachite.
+"Malachite."
 "Mary Sewage."
-Marzgurl.
+"Marzgurl."
 "Marzkara fanfiction."
 "Maven of ze Eventide."
 "Maven's secret sparkling vampire dildo."
 "Mechakara's phallic drill."
-Mechakara.
+"Mechakara."
 "Melvin, brother of the Joker."
 "Mexican Spider-Man."
-MikeJ.
-Moarte.
+"MikeJ."
+"Moarte."
 "My mom."
 "My penis catching fire."
 "Naked crazy."
@@ -573,25 +573,25 @@ Moarte.
 "Nash, dressed as The Undertaker."
 "Nash, making ""vroom vroom"" noises."
 "Nash, making train sounds in a bathtub."
-Nash.
+"Nash."
 "Nella's cleavage Altoids."
-Nella.
+"Nella."
 "Newborn porn."
 "Not reading the FAQ."
 "Nun fuckery."
-Oancitizen.
+"Oancitizen."
 "Obelisk Blue Linkara."
 "Obscurus Lupa."
 "Only being on the site because of the influence of famous acquaintences."
 "Over-intrusive fanboys."
 "Pants that need to be darkened."
 "Paw's soul patch."
-Paw.
+"Paw."
 "Penis whiskers."
 "Phelous making love to his Turtles collection."
-Phelous.
-PhelousD1.
-PhilBuni.
+"Phelous."
+"PhelousD1."
+"PhilBuni."
 "Playing TGWTG Cards Against Humanity at stupid o'clock."
 "Pol Pot pies."
 "Poop, as a plan."
@@ -617,17 +617,17 @@ PhilBuni.
 "Santa Christ's raging boner."
 "Santa Christ."
 "Sci-Fi Guy's ponytail."
-Sean.
+"Sean."
 "Sex, violence, and Daffy Duck screaming."
 "Sharkleberry Finn-flavored Kool-Aid."
 "Shooting colored corn syrup up your nose."
 "Shouting ""FUS-RO-DAH!"" at a puppy."
-Skitch.
+"Skitch."
 "Slightly creepy comments about Tara's hair."
 "Smarty's special bag of AIDS."
-Smarty.
+"Smarty."
 "Smoking kittens."
-Snowdicking.
+"Snowdicking."
 "Snowflame's cocaine flavored popsicles."
 "Snowflame's fuzzy slippers."
 "Snowflame, feeling no pain."
@@ -637,12 +637,12 @@ Snowdicking.
 "Spoony's fans."
 "Stealing money off dead wolves."
 "Stick figure porn."
-Stickboy.
+"Stickboy."
 "Storing your dead friend's ashes into a Quaker Oats can."
 "Suggestively eating a banana at the sight of David Bowie."
 "Superboy Prime."
 "Surprise blowjobs."
-SYMBOLISM!
+"SYMBOLISM!"
 "Taking someone by the shoulders, throwing them on the bed and riding them like a stallion."
 "Tara's tramautic childhood stories."
 "That Aussie Guy."
@@ -690,29 +690,29 @@ SYMBOLISM!
 "This fecal matter you call ""Fluttershy""."
 "Throwing a Baby Tumbles Surprise down a staircase."
 "Time travel."
-Timing.
+"Timing."
 "Todd in the Shadows."
 "Todd trolling Chris Brown on Twitter."
 "Todd's unmasked visage."
 "Tommy Wiseau."
-Turtle.
+"Turtle."
 "Twin clones of Hitler."
 "Using a frontloader to steal deodorant."
 "Using Crystal Pepsi as a substitute for lube."
 "Using donation money for weed."
 "Using your underwear to shoplift raw meat from your local Wal-Mart."
-Vangelus
+"Vangelus"
 "Ven Gethenian."
 "Ven's voice, a gift from the fairies."
 "Vigorously shagging your sister while holding a mug of warm tea."
-Welshy.
+"Welshy."
 "Whatever the hell Barfiesta was supposed to be."
 "Y Ruler Of Time."
 "Yet another Thunderdome reference."
 "Youngblood's disease."
 "Zeo Linkara."
 "Zodan The Unbouncable."
-Zodd.
+"Zodd."
 "60 fps."
 "A comedic roast gone too far."
 "A craving that only hands could satisfy."
@@ -735,13 +735,13 @@ Zodd.
 "An epic fail."
 "An inside joke, like way inside."
 "Aspiring Youtubers."
-Bassists.
-Batfleck.
+"Bassists".
+"Batfleck."
 "Binge watching shows on Netflix&reg;."
 "Blood orgies!"
 "Completely cracking under the pressure."
 "Death by horse fucking."
-Drummers.
+"Drummers."
 "Dumpster diving for furniture."
 "Easy money."
 "Existential disagreements."
@@ -751,18 +751,18 @@ Drummers.
 "Food carts."
 "George R.R. Martin’s Livejournal."
 "Ghost Peppers."
-Guitarists.
+"Guitarists."
 "Hitting a little too close to home."
 "Intellectual Property."
 "Internet culture."
-Kombucha.
+"Kombucha."
 "Lying about something to seem cool."
 "Making it Steampunk."
 "Manic depression."
 "My inevitable death."
 "My under utilized skills."
-Nickelback.
-Nihilism.
+"Nickelback."
+"Nihilism."
 "Obscure 70’s rock bands only your father would know."
 "Our dark lord and savior, Satan."
 "Owning every season of Family Matters."
@@ -798,7 +798,7 @@ Nihilism.
 "TLC reality shows."
 "Torture porn."
 "Total isolation."
-Trollface.
+"Trollface."
 "Urban Hippies."
 "What I’d like to do to you."
 "YOLO BITCHES!"
@@ -1086,8 +1086,8 @@ Trollface.
 "Getting shot and not even being mad because it was pretty impressive."
 "How it feels to be on the receiving end of an air strike."
 "Ironically getting shot in a hospital."
-Kleptomania.
-Lag.
+"Kleptomania."
+"Lag."
 "Running over my best bro."
 "Russian architecture."
 "Shitty female voice actors."
@@ -1105,9 +1105,9 @@ Lag.
 "The tiny bit of sanity I lose every time I purchase another beanie hat."
 "A well-timed ""that's what she said."""
 "A well-timed &ldquo;thats what she said&rdquo;"
-Afghanistananians.
+"Afghanistananians"
 "Anal fissures"
-Beets.
+"Beets."
 "Being the fucking lizard King"
 "Being unable to escape a conversation with Kelly Kapoor"
 "Blind Guy Mc Squeezy"
@@ -1125,12 +1125,12 @@ Beets.
 "Hotel Hell. Check-in time is now,check-out time is never."
 "It’s Brittany Bitch"
 "Jan Levinson-Gould's thousand-yard stare."
-Jimothy.
+"Jimothy."
 "Just a little Zing and Pep"
 "Justice Beaver."
 "Kleenex shoes"
 "Me and the blues"
-Mmmmmmilf
+"Mmmmmmilf"
 "Mr. Buttlicker"
 "Mr. Poopy-Butthole"
 "Not having enough orange traffic cones"
@@ -1269,11 +1269,11 @@ Mmmmmmilf
 "Abandonment issues."
 "Abducting children."
 "Abs for days."
-Abs.
+"Abs."
 "Accidentally executing a hostage."
 "Acquiring a gun very easily."
 "Actual mutants with medical conditions and no superpowers."
-ADVENTURE!
+"ADVENTURE!"
 "Aimlessly floating downriver."
 "Aimlessly swimming hither and thither."
 "All manner of horrors."
@@ -1285,7 +1285,7 @@ ADVENTURE!
 "Almost grasping the concept of compassion."
 "Amateur lesbian teens."
 "America's crumbling infrastructure."
-Amputees.
+"Amputees."
 "An 80% mortality rate."
 "An act of terror."
 "An emotional gravity that can only be created by a good book or the death of your firstborn."
@@ -1296,7 +1296,7 @@ Amputees.
 "An undiscovered body."
 "An unfortunate parade of misery."
 "An unwanted pregnancy."
-Angst.
+"Angst."
 "Another unspeakable act of violence."
 "Another video game about a bland, frowning white man with stubble."
 "Any means necessary."
@@ -1321,22 +1321,22 @@ Angst.
 "Being speared and escaping from death by the sheer power of my own will to live."
 "Being too old for this shit."
 "Belting out the chorus of a popular song and mumbling through the rest."
-Bigotry.
-Birthdays.
+"Bigotry."
+"Birthdays."
 "Biting a woman's ear clean off."
 "Bleeding and crying and stuff."
 "Bleeding everywhere."
 "Blood and guts all over me."
-Bones.
+"Bones."
 "Botching an execution."
 "Boxing up my feelings."
 "Bracing for impact."
 "Brandishing a gun."
 "Broken watches that don’t do the tick-tock."
-Bullets.
+"Bullets."
 "Burning people alive."
 "Burying my only daughter."
-Cabinets.
+"Cabinets."
 "Carrying a handgun."
 "Catching new and mysterious diseases from a South African wheat crop."
 "Ceasing to be funny."
@@ -1347,12 +1347,12 @@ Cabinets.
 "Choking out a 19-year-old."
 "Chucking a brick at his face."
 "Civilian casualties."
-Coffee.
+"Coffee."
 "Collapsing in grief."
 "Coming out."
 "Compartment syndrome."
 "Complex transgender characters."
-Cordyceps.
+"Cordyceps."
 "Cowering behind a tree as the hunting dogs close in."
 "Cradling my daughter as she bleeds out."
 "Crouch-waddling everywhere like I’m doing a poopie."
@@ -1360,24 +1360,24 @@ Cordyceps.
 "Cum rag mushrooms."
 "Dancing bad."
 "Dangling from a noose."
-Death.
+"Death."
 "Debilitating childhood trauma."
 "Delighting in the pain of others."
 "Demanding that everyone lower their weapons right now so we can talk this out."
 "Dicking around on the guitar for an hour."
 "Dismantling the government."
-Dismemberment.
+"Dismemberment."
 "Doing some impressive stuff, then going into a deep depression."
 "Drifting in and out of consciousness."
 "Dry heaving."
 "Dubious pseudoscientific nonsense."
-Dumpsters.
+"Dumpsters."
 "Dying cold, alone, and upside down."
 "Eating people."
 "Emotional baggage."
 "Emotional unavailability."
 "Endless stress."
-Enduring.
+"Enduring."
 "Engine trouble."
 "Exactly what you deserve."
 "Extra ration cards for my little girl."
@@ -1392,7 +1392,7 @@ Enduring.
 "Feeling the emotion of anger."
 "Feeling what not having hope feels like."
 "Feeling your body betraying you every time."
-Ferns.
+"Ferns."
 "Finding out that friendship was the real treasure all along."
 "Finding the strength to go on."
 "Flopping around for a while before dying."
@@ -1400,7 +1400,7 @@ Ferns.
 "Galloping around the University of Colorado."
 "Gangrene, unfortunately."
 "Gargling blood as I lie dying on the floor."
-Gayness.
+"Gayness."
 "Gelatinous globules of human flesh."
 "Gently smothering a middle-aged man."
 "Genuine human connection."
@@ -1427,8 +1427,8 @@ Gayness.
 "Grunting in dismissal."
 "Grunting repeatedly, like a man."
 "Gun shots to the head."
-Guns.
-Gustavo.
+"Guns."
+"Gustavo."
 "Guzzling pond water by the bucket."
 "Half a puppy."
 "Hammering on the door and saying ""open up!&rdquo;"
@@ -1464,7 +1464,7 @@ Gustavo.
 "Killing without remorse."
 "Knocking out a child with a single punch."
 "Latching onto a man's throat and biting out his pulsing jugular."
-Leaping.
+"Leaping."
 "Leaving a trail of grief wherever you go."
 "Letting everyone out of jail."
 "Lighting stuff on fire."
@@ -1482,7 +1482,7 @@ Leaping.
 "Men discussing their feelings in an emotionally healthy way."
 "Moral ambiguity."
 "More than one brick."
-Moss.
+"Moss."
 "Most of a horse."
 "Moving to Wyoming."
 "Multiple stab wounds."
@@ -1510,34 +1510,34 @@ Moss.
 "Open and honest communication."
 "Our most basic primal instincts."
 "Owing a lot of firearms to some very bad people."
-Pallets.
+"Pallets."
 "Panic in the streets."
-Pedophiles.
+"Pedophiles."
 "Perhaps the end of the human race."
 "Piles of baby shoes."
-Pill-popping.
-Pills.
+"Pill-popping."
+"Pills."
 "Planning my child's funeral."
 "Plopping down in the corner and letting the fungus claim me."
 "Potato. Potato. My little buddy Potato. What a big boy."
 "Presenting your documents at the checkpoint."
 "Probably just the wind."
 "Proving that girls are people too."
-PTSD.
+"PTSD."
 "Punching everyone."
 "Punching this wall till it caves."
-Puns.
+"Puns."
 "Pure muscle."
-Pustules.
+"Pustules."
 "Putting dirty dishes in the sink and hoping someone else deals with them."
-Rage.
+"Rage."
 "Rapidly-deteriorating peace talks."
 "RAWR. Werewolf."
 "Realizing that I'm the asshole."
 "Releasing a guttural shriek from my vocal sac."
 "Repopulating the earth."
 "Resorting to cannibalism."
-Revenge.
+"Revenge."
 "Rinsing off all the blood."
 "Roach-infested mattresses."
 "Rope skills."
@@ -1553,7 +1553,7 @@ Revenge.
 "Sea lion polkadots."
 "Secreting a cloud of acidic spores from my pustules."
 "Seeing my village burned and my family slaughtered before my eyes."
-Self-defense.
+"Self-defense."
 "Shaved white heads."
 "Sheer force."
 "Shitting your pants like a little bitch."
@@ -1576,21 +1576,21 @@ Self-defense.
 "Spluttering and convulsing."
 "Spooky scary skeletons."
 "Sprinting for my life."
-Stalkers.
+"Stalkers."
 "Strong female characters."
 "Stumbling around in the dark."
 "Sudden bursts of rage."
 "Suddenly being super supportive of gay people."
 "Suddenly-intensifying charango music."
 "Survival of the fittest."
-Surviving.
+"Surviving."
 "Survivor's guilt."
 "Sweating and grunting."
 "Sweet, sweet vengeance."
 "Taking off each other's clothes enthusiastically."
 "Teenage pregnancy."
 "Telling you my story, and then trying to kill you with a machete."
-Texas.
+"Texas."
 "That little voice in the back of your head that tells you to jump when you stand by a cliff."
 "That smart son of a bitch, Robert."
 "That time my mom died and I was adopted by the homeless guy."
@@ -1678,7 +1678,7 @@ Texas.
 "Young love."
 "Zoo animals."
 "(This card is not a penis)."
-73647.
+"73647."
 "A One-Way Ticket to Penis"
 "A Pussy So Tight No Dick Penetrates"
 "Alan Wake's American Penis."
@@ -1696,9 +1696,9 @@ Texas.
 "Big Dong."
 "Big Mac Penis."
 "Bigger blacker penises."
-Biopenis.
+"Biopenis."
 "Blue penis."
-BPenis.
+"BPenis."
 "Bronies: The Unexplained Penis."
 "BrotherPunk loves penis."
 "Bum penis."
@@ -1713,20 +1713,20 @@ BPenis.
 "Clean penis."
 "Cloudy With a Chance of Penis."
 "CockBox 360."
-CockTube.
+"CockTube."
 "Cocoa penis."
 "Crash Bandicock."
 "Crotchboob penis."
 "Crying penis."
-Cum.
+"Cum."
 "Currently in use penis."
 "Dancing penis."
 "Daring Penis."
-DarkPenis.
+"DarkPenis."
 "Dawn of the Walking Penis."
 "Dead Penis."
 "Devil May Penis."
-Digipenis.
+"Digipenis."
 "Dirty penis."
 "Doctor Penis."
 "Double Penis All Across The Sky."
@@ -1744,9 +1744,9 @@ Digipenis.
 "Final Penis."
 "Flash: The Quickest Penis."
 "Flavored penis."
-FlutterPenis
+"FlutterPenis"
 "Forehead penis."
-Futapenis.
+"Futapenis."
 "Gears Of Penis."
 "Gently stroking the penis."
 "GERMAN PENIS."
@@ -1786,12 +1786,12 @@ Futapenis.
 "Lonely penis."
 "Lord Of Penises."
 "Lord of the Penis: The Two Vaginas."
-Macropenis.
+"Macropenis."
 "Mass Penis."
 "Medal Of Penis."
 "Medieval Penis."
 "Metro Penis."
-Micropenis.
+"Micropenis."
 "Microsoft Penis."
 "Morning wood."
 "Mortal Penis."
@@ -1808,7 +1808,7 @@ Micropenis.
 "No penis."
 "Orange penis."
 "P2P - Penis2Penis."
-P3n15.
+"P3n15."
 "Peach penis."
 "Penis 64."
 "Penis Against Humanity."
@@ -1845,26 +1845,26 @@ P3n15.
 "Penis wood."
 "Penis: The Final Frontier."
 "Penis: This is your life."
-PenisAura.
-Penisbound.
-Peniscraft.
-PenisCube.
+"PenisAura."
+"Penisbound."
+"Peniscraft."
+"PenisCube."
 "Penises From Iwo Jima."
 "Penises From Outer Space."
 "Penises in bags."
-PenisPunk.
+"PenisPunk."
 "PenisSide 2."
 "PenisStation 3."
-Penistia.
+"Penistia."
 "Pink Fluffy Penises Dancing In Vaginas."
 "Pirates of the Penis."
-PocketPenis&trade;.
+"PocketPenis."
 "Poke penis."
 "Polish penis."
 "Pony penis."
 "PowerPuff Penis."
 "Princess Penis."
-Rarity.
+"Rarity."
 "Rebecca Cock."
 "Red Penis Redemption."
 "Refresh page penis."
@@ -1872,7 +1872,8 @@ Rarity.
 "Revenge of the Penis."
 "Rise of the Penis."
 "Robin: No penis."
-Robopenis!
+"Robopenis!
+"Robopenis!
 "Roller Penis Tycoon."
 "Romantic penis."
 "Sad penis."
@@ -1934,7 +1935,8 @@ Robopenis!
 "Unreal Penis."
 "Use the Penis."
 "Used penis."
-Vagina.
+"Robopenis!"
+"Vagina."
 "Viking penis."
 "Virgin penis."
 "Virtual penis."
